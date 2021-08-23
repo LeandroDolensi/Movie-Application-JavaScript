@@ -24,11 +24,11 @@
 
 ##### Interface gráfica:
 
-![tela-inicial](https://github.com/LeandroDolensi/Movie-Application-JavaScript/blob/master/AplicacaoCinema/imgs/tela-inicial.png)
+> ![tela-inicial](https://github.com/LeandroDolensi/Movie-Application-JavaScript/blob/master/AplicacaoCinema/imgs/tela-inicial.png)
 
-![menu-adicionar-sessao](https://github.com/LeandroDolensi/Movie-Application-JavaScript/blob/master/AplicacaoCinema/imgs/menu-adicionar-sessao.png)
+> ![menu-adicionar-sessao](https://github.com/LeandroDolensi/Movie-Application-JavaScript/blob/master/AplicacaoCinema/imgs/menu-adicionar-sessao.png)
 
-![menu-listar-filmes](https://github.com/LeandroDolensi/Movie-Application-JavaScript/blob/master/AplicacaoCinema/imgs/menu-listar-filmes.png)
+> ![menu-listar-filmes](https://github.com/LeandroDolensi/Movie-Application-JavaScript/blob/master/AplicacaoCinema/imgs/menu-listar-filmes.png)
 
 <br/>
 
