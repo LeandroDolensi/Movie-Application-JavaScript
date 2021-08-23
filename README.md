@@ -24,9 +24,9 @@
 
 ##### Interface gráfica:
 
-![image-20210823140858591](C:\Users\Leandro Dolensi\AppData\Roaming\Typora\typora-user-images\image-20210823140858591.png)
+![Tela inicial](C:\Users\Leandro Dolensi\Desktop\ADS\Curso\Semestre_2\02 - Programação Web 1\Trabalho prático II\AplicacaoCinema\imgs\tela-inicial.png)
 
-![image-20210823141000950](C:\Users\Leandro Dolensi\AppData\Roaming\Typora\typora-user-images\image-20210823141000950.png)
+![Menu Adicionar Sessão](C:\Users\Leandro Dolensi\AppData\Roaming\Typora\typora-user-images\image-20210823141000950.png)
 
 ![image-20210823141028108](C:\Users\Leandro Dolensi\AppData\Roaming\Typora\typora-user-images\image-20210823141028108.png)
 
