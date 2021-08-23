@@ -24,11 +24,11 @@
 
 ##### Interface gráfica:
 
-![Tela inicial](C:\Users\Leandro Dolensi\Desktop\ADS\Curso\Semestre_2\02 - Programação Web 1\Trabalho prático II\AplicacaoCinema\imgs\tela-inicial.png)
+![tela-inicial](C:\Users\Leandro Dolensi\Desktop\ADS\Curso\Semestre_2\02 - Programação Web 1\Trabalho prático II\AplicacaoCinema\imgs\tela-inicial.png)
 
-![Menu Adicionar Sessão](C:\Users\Leandro Dolensi\AppData\Roaming\Typora\typora-user-images\image-20210823141000950.png)
+![menu-adicionar-sessao](C:\Users\Leandro Dolensi\Desktop\ADS\Curso\Semestre_2\02 - Programação Web 1\Trabalho prático II\AplicacaoCinema\imgs\menu-adicionar-sessao.png)
 
-![image-20210823141028108](C:\Users\Leandro Dolensi\AppData\Roaming\Typora\typora-user-images\image-20210823141028108.png)
+![menu-listar-filmes](C:\Users\Leandro Dolensi\Desktop\ADS\Curso\Semestre_2\02 - Programação Web 1\Trabalho prático II\AplicacaoCinema\imgs\menu-listar-filmes.png)
 
 <br/>
 
