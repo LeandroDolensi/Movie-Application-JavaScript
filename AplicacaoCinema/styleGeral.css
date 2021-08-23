@@ -1,0 +1,334 @@
+
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-image: url(imgs/bolinhas2.jpg);
+}
+@font-face {
+    font-family: releway;
+    src: url(fonts/Raleway-Thin.ttf);
+    }
+
+li, a, button, h1, h3, div, input, select {
+    font-family: releway;
+    font-size: 25px;
+    font-weight: 200;
+    letter-spacing: 1px;
+    color:white;
+    text-decoration: solid;
+    border: none;
+    margin: 2px;
+}
+
+table {
+    width: 80%;
+    border: 0px solid rgb(238, 11, 11);
+    border-radius: 5px;
+
+}
+
+
+th {
+    height: 50px;
+    text-align: left;
+    font-size: 80%;
+}
+
+.linha_hover:hover {
+    background-color: rgb(111, 112, 170);
+    font-weight: bolder;
+    color: black;
+    transition: 0.1s ease;
+}
+
+th, td {
+    border: 0px;
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid rgb(238, 11, 11);
+    
+}
+
+input {
+    margin-left: 0px;
+    width: 98%;
+    border-radius: 2px;
+    background-color: rgb(111, 112, 170);
+    
+}
+
+select {
+    margin-left: 0px;
+    width: 98%;
+    border-radius: 2px;
+    background-color: rgb(111, 112, 170);
+    font-size: x-large;
+    margin-bottom: 30px;
+}
+
+select:focus {
+    background-color: rgb(78, 83, 221);
+}
+
+select:hover {
+    background-color: rgb(71, 74, 172);
+    transition: 0.8s ease;
+}
+
+.assinatura {
+    width: 100%;
+}
+
+#assinatura_conteudo {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.footer_ass {
+    margin: 0px;
+    font-size: smaller;
+}
+
+.content_table {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+::-webkit-input-placeholder {
+    color: rgb(177, 179, 226);
+}
+
+input:focus {
+    background-color: rgb(161, 163, 221);
+}
+
+input:hover {
+    background-color: rgb(161, 163, 221);
+    transition: 0.8s ease;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+}
+
+
+.in_page_actions{
+    display:-webkit-inline-flex;
+}
+
+.in_page_actions li button {
+    width: 220px;
+    font-size: 75%;
+    justify-content: center;
+
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.center_action {
+    display: contents;
+}
+
+
+
+fieldset {
+
+    margin: 10px;
+    border:2px solid rgb(238, 11, 11);
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 0 0 8px rgb(238, 11, 11);
+
+
+}
+
+
+form {
+    display: flex;
+    line-height: 22px;
+ 
+}
+
+.button_menu{
+    padding-top: 5%;
+    align-content: center
+}
+
+.btnCustom {
+    font-size: 25px;
+    width: 400px;
+
+}
+
+header {
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 5px 10%;
+}
+
+body {
+    margin:auto;
+    display: block;
+}
+
+@font-face {
+    font-family: cinema_capital;
+    src: url(fonts/cinema_capitol/Cinema\ Capitol.otf);
+}
+@keyframes pulsate {
+    100% {
+      /* Larger blur radius */
+      text-shadow:
+        0 0 4px white,
+        0 0 11px white,
+        0 0 19px white,
+        0 0 40px white,
+        0 0 80px white,
+        0 0 90px white,
+        0 0 100px red;
+    }
+    0% {
+      /* Smaller blur radius */
+      text-shadow:
+        0 0 2px rgb(238, 11, 11),
+        0 0 4px rgb(238, 11, 11),
+        0 0 6px rgb(238, 11, 11),
+        0 0 10px rgb(238, 11, 11),
+        0 0 45px rgb(238, 11, 11),
+        0 0 55px white,
+        0 0 70px white;
+    }
+  }
+
+#logo {
+    align-content: left;
+    font-family: cinema_capital;
+    font-style: normal;
+    letter-spacing: 15px;
+    font-size: 80px;
+    line-height: 90%;
+    text-align: left;
+    animation: pulsate 2.5s infinite alternate;
+
+    justify-self: flex-start;
+    margin-left:  70px;
+    cursor: pointer;
+    margin-right: auto;
+    padding: 10px;
+    /* efeitos neon */
+    color: white;
+           
+}
+
+@keyframes flicker {
+    
+    0%, 18%, 22%, 25%, 53%, 57%, 100% {
+  
+        text-shadow:
+        0 0 7px white,
+        0 0 10px red,
+        0 0 21px red,
+        /* Red glow */
+        0 0 42px white,
+        0 0 82px white,
+        0 0 92px white,
+        0 0 102px white;
+     
+    }
+    
+    20%, 24%, 55% {        
+        text-shadow: none;
+    }    
+  }
+
+.page_references{
+    margin-left: none;
+}
+
+.nav_links{
+    list-style: none;
+}
+
+.nav_links li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav_links li a{
+    transition: all .3s linear 0s;
+}
+
+.nav_links li a:hover{
+    color: bisque;
+}
+
+button, fieldset #adicionar{
+    padding: 9px 25px;
+    background-color: rgb(238, 11, 11);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all .3s ease 0s;
+    margin-left: 10px;
+}
+
+
+.btn_form {
+    padding: 9px 25px;
+    background-color: rgb(238, 11, 11);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-left: 10px;
+    width: 200px;
+    height: 50px;
+}
+
+#add_atores {
+    width: 70px;
+    text-align: center;
+
+}
+
+.btn_form:hover {
+    background-color: rgb(111, 112, 170);
+    transition-duration: 0.8s;
+    box-shadow: 0 0 10px white;
+}
+
+fieldset {
+    display: grid;
+    justify-content: center;
+}
+
+button:hover{
+    background-color: rgb(111, 112, 170);
+    transition-duration: 0.8s;
+    box-shadow: 
+    0 0 10px white;
+    
+}
+
+
+
+.body_list{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+

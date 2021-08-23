@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="../jquery-3.6.0.min.js"></script>
+    <script src="../js/sessoes.js"></script>
+    
+    <link rel="stylesheet" href="../styleGeral.css">
+    <title>Sessões</title>
+</head>
+<body>
+    <header>
+        <a href="../index.html" id="logo">Cinema Vintage</a>
+        <nav class="page_references">
+            <ul class="nav_links">
+                <li><a href="pgFilmes.html">Filmes</a></li>
+                <li><a href="pgSalas.html">Salas</a></li>
+                <li><a href="pgRelatorios.html">Relatórios</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="content">
+        <ul class="in_page_actions">
+            <li><button class="btn_nav" onclick="setAddSessaoForm()">Adicionar Sessão</button></li>
+            <li><button class="btn_nav" onclick="setAlterarSessao()">Alterar Sessão</button></li>
+            <li><button class="btn_nav" onclick="setExcluirSessao()">Excluir Sessão</button></li>
+            <li><button class="btn_nav" onclick="setListarUmaSessao()">Listar uma Sessão</button></li>
+            <li><button class="btn_nav" onclick="listarTodasSessoes()">Listar Sessões</button></li>
+        </ul>
+    </div>
+    <div class="center_action">
+        <div class="content" id="content_section"></div>
+        <div class="content_table" id="content_table_section"></div>
+    </div>
+</body>
+</html>

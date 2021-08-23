@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="../js/salas.js"></script>
+    <link rel="stylesheet" href="../styleGeral.css">
+    <title>Salas</title>
+</head>
+<body>
+    <header>
+        <a href="../index.html" id="logo">Cinema Vintage</a>
+        <nav class="page_references">
+            <ul class="nav_links">
+                <li><a href="pgFilmes.html">Filmes</a></li>
+                <li><a href="pgSessoes.html">Sessões</a></li>
+                <li><a href="pgRelatorios.html">Relatórios</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="content">
+        <ul class="in_page_actions">
+            <li><button class="btn_nav" onclick="setAddSalaForm()">Adicionar Sala</button></li>
+            <li><button class="btn_nav" onclick="setAlterarSala()">Alterar Sala</button></li>
+            <li><button class="btn_nav" onclick="setExcluirSala()">Excluir Sala</button></li>
+            <li><button class="btn_nav" onclick="setListarUmaSala()">Listar uma Sala</button></li>
+            <li><button class="btn_nav" onclick="listaTodasSalas()">Listar Salas</button></li>
+        </ul>
+    </div>
+    <div class="center_action">
+        <div class="content" id="content_section"></div>
+        <div class="content_table" id="content_table_section"></div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="../js/filmes.js"></script>
+    <link rel="stylesheet" href="../styleGeral.css">
+    <title>Filmes</title>
+</head>
+<body>
+    <header>
+        <a href="../index.html" id="logo">Cinema Vintage</a>
+        <nav class="page_references">
+            <ul class="nav_links">
+                <li><a href="pgSalas.html">Salas</a></li>
+                <li><a href="pgSessoes.html">Sessões</a></li>
+                <li><a href="pgRelatorios.html">Relatórios</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="content">
+        <ul class="in_page_actions">
+            <li><button onclick="setAddFilmeForm()">Adicionar Filme</button></li>
+            <li><button onclick="setAlterarFilme()">Alterar Filme</button></li>
+            <li><button onclick="setExcluirFilme()">Excluir Filme</button></li>
+            <li><button onclick="setListarUmFilme()">Listar um Filme</button></li>
+            <li><button onclick="listaTodosFilmes()">Listar Filmes</button></li>
+        </ul>
+    </div>
+    <div class="center_action">
+        <div class="content" id="content_section"></div>
+        <div class="content_table" id="content_table_section"></div>
+    </div>
+</body>
+</html>
