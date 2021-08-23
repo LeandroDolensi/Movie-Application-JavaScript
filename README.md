@@ -26,9 +26,9 @@
 
 ![tela-inicial](https://github.com/LeandroDolensi/Movie-Application-JavaScript/blob/master/AplicacaoCinema/imgs/tela-inicial.png)
 
-![menu-adicionar-sessao](C:\Users\Leandro Dolensi\Desktop\ADS\Curso\Semestre_2\02 - Programação Web 1\Trabalho prático II\AplicacaoCinema\imgs\menu-adicionar-sessao.png)
+![menu-adicionar-sessao](https://github.com/LeandroDolensi/Movie-Application-JavaScript/blob/master/AplicacaoCinema/imgs/menu-adicionar-sessao.png)
 
-![menu-listar-filmes](C:\Users\Leandro Dolensi\Desktop\ADS\Curso\Semestre_2\02 - Programação Web 1\Trabalho prático II\AplicacaoCinema\imgs\menu-listar-filmes.png)
+![menu-listar-filmes](https://github.com/LeandroDolensi/Movie-Application-JavaScript/blob/master/AplicacaoCinema/imgs/menu-listar-filmes.png)
 
 <br/>
 
