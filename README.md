@@ -24,11 +24,11 @@
 
 ##### Interface gráfica:
 
-> ![image-20210823140858591](C:\Users\Leandro Dolensi\AppData\Roaming\Typora\typora-user-images\image-20210823140858591.png)
+![image-20210823140858591](C:\Users\Leandro Dolensi\AppData\Roaming\Typora\typora-user-images\image-20210823140858591.png)
 
-> ![image-20210823141000950](C:\Users\Leandro Dolensi\AppData\Roaming\Typora\typora-user-images\image-20210823141000950.png)
+![image-20210823141000950](C:\Users\Leandro Dolensi\AppData\Roaming\Typora\typora-user-images\image-20210823141000950.png)
 
-> ![image-20210823141028108](C:\Users\Leandro Dolensi\AppData\Roaming\Typora\typora-user-images\image-20210823141028108.png)
+![image-20210823141028108](C:\Users\Leandro Dolensi\AppData\Roaming\Typora\typora-user-images\image-20210823141028108.png)
 
 <br/>
 
